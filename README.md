@@ -1,1 +1,16 @@
-# flash_attn_windows11
+# Flash Attention Wheels for Windows 11
+
+Pre-compiled Flash Attention wheels for Windows 11 - **no build tools required**! 🚀
+
+Flash Attention provides up to 10x faster attention computation for transformers. These wheels are self-compiled and ready to use.
+
+## 🎯 Available Wheels
+
+| Flash Attention | Python | PyTorch | CUDA |
+|----------------|--------|---------|------|
+| 2.8.3 | 3.11 | 2.7.1 | 12.6 |
+| 2.8.2 | 3.12 | 2.7 | 12.8 |
+| 2.7.4.post1 | 3.11 | 2.7.4 | 12.4 |
+
+
+
