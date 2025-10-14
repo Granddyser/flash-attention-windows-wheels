@@ -1,6 +1,6 @@
-# Flash Attention Wheels for Windows 11
+# Flash Attention Wheels for Windows 
 
-Pre-compiled Flash Attention wheels for Windows 11 - **no build tools required**! 🚀
+Pre-compiled Flash Attention wheels for Windows - **no build tools required**! 🚀
 
 Flash Attention provides up to 10x faster attention computation for transformers. These wheels are self-compiled and ready to use.
 
