@@ -10,6 +10,7 @@ Flash Attention provides up to 10x faster attention computation for transformers
 |----------------|--------|---------|------|
 | 2.8.3 | 3.11 | 2.7.1 | 12.6 |
 | 2.8.2 | 3.12 | 2.7 | 12.8 |
+| 2.8.3 | 3.12 | 2.7.1 | 12.8 |
 | 2.7.4.post1 | 3.11 | 2.7.4 | 12.4 |
 
 
