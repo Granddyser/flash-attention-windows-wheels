@@ -8,6 +8,7 @@ Flash Attention provides up to 10x faster attention computation for transformers
 
 | Flash Attention | Python | PyTorch | CUDA |
 |----------------|--------|---------|------|
+| 2.8.3 | 3.12 | 2.6.0 | 12.6 |
 | 2.8.3 | 3.12 | 2.7.1 | 12.6 |
 | 2.8.3 | 3.11 | 2.7.1 | 12.6 |
 | 2.8.2 | 3.12 | 2.7 | 12.8 |
